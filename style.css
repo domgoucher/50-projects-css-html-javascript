@@ -14,3 +14,7 @@ body {
   margin: 0;
   overflow: hidden;
 }
+
+.columns {
+  column-count: 3;
+}
